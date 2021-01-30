@@ -15,8 +15,20 @@ output:
   postcards::trestles
 ---
  
+#Bio
 I am a PhD student in Public Policy and Management at the University of Washington in Seattle. My academic interests center on policy and governance of active transportation, and I am generally interested in the relationship between urban environments, social justice, health and human well-being. 
 
 Before starting my PhD, I worked as a policy analyst for the Latin America Regional Climate Initiative (now Iniciativa Climatica de Mexico) and the Mario Molina Center. I also worked for the Climate Change and Sustainability department at KPMG Madrid as a corporate social responsibility analyst.
 
+#Education
 I hold a Bachelors of Science from the Universidad Nacional Autónoma de Mexico, an Msc in Water Science, Policy and Management from Oxford University and an Msc in Public Policy from the University of Washington.
+
+#Research interests
+* Urban mobility
+* Environmental policy
+* Public health
+* Cycling Policy
+* Water Policy
+* Climate Change
+* Corporate social responsability
+* Latin America
