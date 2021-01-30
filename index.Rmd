@@ -9,9 +9,8 @@ links:
     url: "https://twitter.com/rebedebuen"
   - label: GitHub
     url: "https://github.com/rdebuen"
-  -label: CV
+  - label: CV
     url: "https://rdebuen.github.io/CV/cv_paged_one_column/cv_one_column_paged.html"
-
 site: distill::distill_website
 output:
   postcards::trestles
