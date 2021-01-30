@@ -1,15 +1,15 @@
 ---
-title: "Alison Hill"
+title: "Rebeca de Buen Kalman"
 description: "My personal postcard"
 image: "alison.jpg"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/alisonpresmaneshill/"
+    url: "https://www.linkedin.com/in/rebeca-de-buen-kalman-31b60a35/"
   - label: Twitter
-    url: "https://twitter.com/apreshill"
+    url: "https://twitter.com/rebedebuen"
   - label: GitHub
-    url: "https://github.com/apreshill"
-  - label: ORCID iD
+    url: "https://github.com/rdebuen"
+  - label: CV
     url: "http://orcid.org/0000-0002-8082-1890"
 site: distill::distill_website
 output:
