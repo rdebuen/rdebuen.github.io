@@ -2,7 +2,7 @@
 name: "."
 title: "Rebeca de Buen Kalman"
 description: |
-  mfeo
+  Rebeca de Buen Kalman
 output_dir: "docs"
 theme: postcards.css
 navbar:
