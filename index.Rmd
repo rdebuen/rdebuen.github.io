@@ -1,7 +1,7 @@
 ---
 title: "Rebeca de Buen Kalman"
 description: "My personal postcard"
-image: "alison.jpg"
+image: "rebeca.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/rebeca-de-buen-kalman-31b60a35/"
@@ -15,6 +15,8 @@ output:
   postcards::trestles
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a PhD student in Public Policy and Management at the University of Washington in Seattle. My academic interests center on policy and governance of active transportation, and I am generally interested in the relationship between urban environments, social justice, health and human well-being. 
+
+Before starting my PhD, I worked as a policy analyst for the Latin America Regional Climate Initiative (now Iniciativa Climatica de Mexico) and the Mario Molina Center. I also worked for the Climate Change and Sustainability department at KPMG Madrid as a corporate social responsibility analyst.
+
+I hold a Bachelors of Science from the Universidad Nacional Autónoma de Mexico, an Msc in Water Science, Policy and Management from Oxford University and an Msc in Public Policy from the University of Washington.
