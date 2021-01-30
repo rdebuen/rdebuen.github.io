@@ -19,5 +19,26 @@
     "preview": {},
     "last_modified": "2021-01-29T19:30:26-08:00",
     "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/2021-01-29-aboutsite/",
+    "title": "about_site",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Rebeca de Buen Kalman",
+        "url": {}
+      },
+      {
+        "name": "",
+        "url": {}
+      }
+    ],
+    "date": "2021-01-29",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-01-29T20:00:24-08:00",
+    "input_file": "aboutsite.utf8.md"
   }
 ]
