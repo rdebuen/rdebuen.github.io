@@ -1,5 +1,5 @@
 ---
-title: "What to hope to do in this blog"
+title: "What I hope to do in this blog"
 description: A  place for short random posts, pictures, projects, data explorations, commentary on what I am reading and thinking about.
   
 # author:
