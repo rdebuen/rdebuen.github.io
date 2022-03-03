@@ -11,6 +11,8 @@ links:
     url: "https://github.com/rdebuen"
   - label: CV
     url: "https://docs.google.com/document/d/1xGDguXVL3aRIhEL2Q9ktUhMMsSHP_y9z6B1ASNRSSPk/edit?usp=sharing"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=3DSfeekAAAAJ&hl=en"
 site: distill::distill_website
 output:
   postcards::trestles
@@ -24,7 +26,9 @@ My recent academic research focused on non-motorized mobility, where I explored 
 
 ## Selected publications and features
 
-[link](www.rstudio.com) 
+- [de Buen Kalman, R. (2021). Can’t drive today? The impact of driving restrictions on bikeshare ridership in Mexico City. Transportation research part D: transport and environment, 91, 102652.](https://www.sciencedirect.com/science/article/abs/pii/S1361920920308373#:~:text=Results%20indicate%20that%20restricted%20days,increases%20during%20peak%20traffic%20hours.)
+
+- [A Q&A with Rebeca de Buen Kalman (PhD ’21)](https://evans.uw.edu/a-qa-with-rebeca-debuen-phd-21/) 
  
 
 ## Education
