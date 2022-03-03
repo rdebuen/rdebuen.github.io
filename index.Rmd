@@ -10,7 +10,7 @@ links:
   - label: GitHub
     url: "https://github.com/rdebuen"
   - label: CV
-    url: "https://rdebuen.github.io/CV/cv_paged_one_column/cv_one_column_paged.html"
+    url: "https://docs.google.com/document/d/1xGDguXVL3aRIhEL2Q9ktUhMMsSHP_y9z6B1ASNRSSPk/edit?usp=sharing"
 site: distill::distill_website
 output:
   postcards::trestles
@@ -18,20 +18,26 @@ output:
  
 ## Bio
 
-I am a PhD student in Public Policy and Management at the University of Washington in Seattle. My academic interests center on policy and governance of active transportation, and I am generally interested in the relationship between urban environments, social justice, health and human well-being. 
+I am a policy and sustainability professional with broad experience in the non-profit, private, and academic sectors. While I am focused on environmental issues, I am most interested in their intersection with human well-being, equity, and health. I have worked on projects across many areas including urban mobility, water policy, ocean governance, corporate sustainability, and climate policy. I also have extensive international experience having grown up in Mexico and lived in the United States, Spain, and the UK. I find almost everything interesting and I am always trying to learn new things and develop skills through which to analyze and solve problems. I am good at building relationships within the workplace and with clients and stakeholders. I am currently a postdoctoral fellow for Ocean Nexus at UW Earthlab focusing on bringing an equity lens to applied policy analysis for ocean governance.
+ 
+My recent academic research focused on non-motorized mobility, where I explored questions of civil society led advocacy, policy adoption, institutionalization, implementation, and effectiveness. My work draws from various disciplines including public policy, geography, public health, engineering, urban planning, and public management. I also use a variety of qualitative and quantitative methods which leverage diverse data sources including open source and crowdsourced transportation data on infrastructure and travel, administrative data, policy documents, and interview data.
 
-Before starting my PhD, I worked as a policy analyst for the Latin America Regional Climate Initiative (now Iniciativa Climatica de Mexico) and the Mario Molina Center. I also worked for the Climate Change and Sustainability department at KPMG Madrid as a corporate social responsibility analyst.
+## Selected publications and features
+
+[link](www.rstudio.com) 
+ 
 
 ## Education
+In 2021 I earned a PhD in Public Policy and Management from the University of Washington.
 
-I hold a Bachelors of Science from the Universidad Nacional Autónoma de Mexico, an Msc in Water Science, Policy and Management from Oxford University, and an Msc in Public Policy from the University of Washington. I am working towards a PhD in Public Policy and Management which I expect to complete in 2021.
+I also hold a Bachelors of Science from the Universidad Nacional Autónoma de Mexico, an Msc in Water Science, Policy and Management from Oxford University, and an Msc in Public Policy from the University of Washington. 
 
-## Research interests
+## Research and Professional interests
 
 - Urban mobility
+- Cycling Policy
 - Environmental policy 
 - Public health
-- Cycling Policy
 - Water policy
 - Climate change 
 - Corporate social responsibility
