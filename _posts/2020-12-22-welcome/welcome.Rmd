@@ -3,7 +3,7 @@ title: "What I hope to do in this blog"
 description: Short random posts, pictures, projects, data explorations, and random commentary on what I am reading and thinking about.
 author:
 - name: Rebeca de Buen Kalman
-- date: 1-29-2021
+- date: 1-29-2022
 output:
   distill::distill_article:
     self_contained: false
